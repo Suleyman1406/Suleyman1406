@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<image src="images/globe-dark.svg">](https://dadashow.netlify.app/)&nbsp;&nbsp;&nbsp;
-[<image src="images/linkedin-dark.svg">](https://www.linkedin.com/in/süleyman-dadaşov-54136a178/)&nbsp;&nbsp;&nbsp;
+[<image src="images/linkedin-dark.svg">](https://www.linkedin.com/in/suleyman-dadashov-54136a178/)&nbsp;&nbsp;&nbsp;
 [<image src="images/twitter-dark.svg">](https://twitter.com/Suleyman141406)&nbsp;&nbsp;&nbsp;
 [<image src="images/instagram-dark.svg">](https://www.instagram.com/suleyman._.14/)&nbsp;&nbsp;&nbsp;
 
