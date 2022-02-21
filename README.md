@@ -3,7 +3,7 @@
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning front-end development.
-- 🥅 2022 Goals: After completing the front-end development, become a full stack developer.
+- 🥅 2022 Goals: After completing the front-end web development, become a full stack developer.
 - ⚡ Fun fact: I love cycling and walking in nature.
 
 ### Connect with me:
