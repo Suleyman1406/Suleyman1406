@@ -53,5 +53,3 @@
 - [Dada Fruit Ninja](https://github.com/Suleyman1406/FruiteNinja)
 
 - [Dada Jump for Life ](https://github.com/Suleyman1406/JumpForLife)
-
-- [Dada Spend Elon Musk Money](https://dadaspendelonmoney.netlify.app/)
