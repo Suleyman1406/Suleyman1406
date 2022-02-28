@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **front-end web development.**
 
-- 👨‍💻 All of my projects are available at [https://dadashow.netlify.app/](https://dadashow.netlify.app/)
+- 👨‍💻 All of my projects are available at [**https://dadashow.netlify.app**](https://dadashow.netlify.app/)
 
 - 💬 Ask me about **React**
 
@@ -61,7 +61,8 @@
 - [Dada Jump for Life ](https://github.com/Suleyman1406/JumpForLife)
 
 ---
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suleyman1406&show_icons=true&locale=en&layout=compact" alt="suleyman1406" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suleyman1406&show_icons=true&locale=en" alt="suleyman1406" /></p>
+<p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=suleyman1406&show_icons=true&locale=en" alt="suleyman1406" /></p>
+
+<p>&nbsp;&nbsp;<img align="center" width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=suleyman1406&show_icons=true&locale=en&layout=compact" alt="suleyman1406" /></p>
+
