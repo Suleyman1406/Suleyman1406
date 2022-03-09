@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **front-end web development.**
 
-- 👨‍💻 All of my projects are available at [**https://dadashow.netlify.app**](https://dadashow.netlify.app/)
+- 👨‍💻 All of my projects are available at [**https://dadashow.me**](https://dadashow.me/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Java, Javascript, React**
 
 - 📫 How to reach me **dadasovsuleyman126@gmail.com**
 
