@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [**https://dadashow.me**](https://dadashow.me/)
 
-- 💬 Ask me about **Java, Javascript, React**
+- 💬 Ask me about **Java, Javascript, React.**
 
 - 📫 How to reach me **dadasovsuleyman126@gmail.com**
 
