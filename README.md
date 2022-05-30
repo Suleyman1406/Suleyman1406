@@ -56,6 +56,12 @@
 
 - [Dada Weather App](https://dadaweather.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaReactWork3) )
 
+- [Interview Assignment 1](https://doggo-home-assessment.vercel.app)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/interview-assignment-1) )
+ 
+- [Interview Assignment 2](https://alphasteallarassessment.netlify.app)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/interview-assignment-2)
+
+- [Interview Assignment 3](https://github.com/Suleyman1406/interview-assignment-3)
+
 ---
 
 ### 📱 Android app github repos
