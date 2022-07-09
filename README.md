@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suleyman1406&label=Profile%20views&color=0e75b6&style=flat" alt="suleyman1406" /> </p>
 
-- 🌱 I’m currently learning **front-end web development.**
+- 🌱 I’m currently learning **full stack web development (React, GraphQL).**
 
 - 👨‍💻 All of my projects are available at [**https://dadashow.me**](https://dadashow.me/)
 
