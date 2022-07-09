@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **full stack web development (React, GraphQL).**
 
-- 👨‍💻 All of my projects are available at [**https://dadashow.me**](https://dadashow.me/)
+- 👨‍💻 All of my projects are available at [**https://dadashow.me.**](https://dadashow.me/)
 
 - 💬 Ask me about **Java, Javascript, CSS, React, GraphQL.**
 
 - 📫 How to reach me **dadasovsuleyman126@gmail.com**
 
-- 📄 Know about my experiences in [**my resume**](https://app.flowcv.io/resume-feedback/tvaWMwobecxrRS_eYgafp)
+- 📄 Know about my experiences in [**my resume.**](https://app.flowcv.io/resume-feedback/tvaWMwobecxrRS_eYgafp)
 
 - ⚡ Fun fact **I love cycling and walking in nature.**
 
