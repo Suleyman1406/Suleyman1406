@@ -72,9 +72,4 @@
 
 - [Dada Jump for Life ](https://github.com/Suleyman1406/JumpForLife)
 
----
-
-<p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=suleyman1406&show_icons=true&locale=en" alt="suleyman1406" /></p>
-
-<p>&nbsp;&nbsp;<img align="center" width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=suleyman1406&show_icons=true&locale=en&layout=compact" alt="suleyman1406" /></p>
 
