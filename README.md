@@ -114,7 +114,7 @@
 
 - [Interview Assignment 3](https://github.com/Suleyman1406/interview-assignment-3)
 
-- [PYP Bootcamp Assignments](https://github.com/Suleyman1406/pyp-assignments)
+- [CodeAcademy PYP Bootcamp Assignments](https://github.com/Suleyman1406/pyp-assignments)
 
 ---
 
