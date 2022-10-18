@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **dadasovsuleyman126@gmail.com**
 
-- 📄 Know about my experiences in [**my resume.**](https://app.flowcv.io/resume-feedback/tvaWMwobecxrRS_eYgafp)
-
 - ⚡ Fun fact **I love cycling and walking in nature.**
 
 <h3 align="left">Connect with me:</h3>
