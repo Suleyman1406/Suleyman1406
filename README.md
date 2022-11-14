@@ -85,23 +85,23 @@
 
 ### 💻 Web projects
 
-- [Dada Memory Game](https://dadamemorygame.netlify.app/)&nbsp;&nbsp; ( [github link](https://github.com/Suleyman1406/PatikaReduxWork3) )
+- [Memory Game](https://dadamemorygame.netlify.app/)&nbsp;&nbsp; ( [github link](https://github.com/Suleyman1406/PatikaReduxWork3) )
   
-- [Dada NotePad](https://dadanotepad.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaReduxWork1) )
+- [NotePad](https://dadanotepad.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaReduxWork1) )
 
-- [Dada Todo App](https://dadatodo.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaReactWork2) )
+- [Todo App](https://dadatodo.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaReactWork2) )
 
-- [Dada Calculate BMI App](https://dadacalculate.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaFrontEndProject2) )
+- [Calculate BMI App](https://dadacalculate.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaFrontEndProject2) )
 
-- [Dada Crypto Tracker Application](https://dadacrypto.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaFrontEndProject3) )
+- [Crypto Tracker Application](https://dadacrypto.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaFrontEndProject3) )
   
-- [Dada Book Searching App](https://dadabooksearch.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaFrontEndProject1) )  
+- [Book Searching App](https://dadabooksearch.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaFrontEndProject1) )  
   
-- [Dada Spend Elon Musk Money](https://dadaspendelonmoney.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaReduxWork2) )
+- [Spend Elon Musk Money](https://dadaspendelonmoney.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaReduxWork2) )
 
-- [Dada Rick and Morty Characters App](https://dadarickandmorty.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaGraphQLWork7) )
+- [Rick and Morty Characters App](https://dadarickandmorty.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaGraphQLWork7) )
 
-- [Dada Weather App](https://dadaweather.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaReactWork3) )
+- [Weather App](https://dadaweather.netlify.app/)&nbsp;&nbsp;( [github link](https://github.com/Suleyman1406/PatikaReactWork3) )
 
 - [CodeAcademy PYP Bootcamp Assignments](https://github.com/Suleyman1406/pyp-assignments)
 
@@ -115,9 +115,9 @@
 
 ### 📱 Android app github repos
 
-- [Dada Travelogue](https://github.com/Suleyman1406/Travelogue)
+- [Travelogue](https://github.com/Suleyman1406/Travelogue)
 
-- [Dada Fruit Ninja](https://github.com/Suleyman1406/FruiteNinja)
+- [Fruit Ninja](https://github.com/Suleyman1406/FruiteNinja)
 
-- [Dada Jump for Life ](https://github.com/Suleyman1406/JumpForLife)
+- [Jump for Life ](https://github.com/Suleyman1406/JumpForLife)
 
