@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dadasovsuleyman126@gmail.com**
 
-- ⚡ Fun fact **I love cycling and walking in nature.**
+- ⚡ Fun fact **I love cycling, traveling by motorcycle and walking in nature.**
 
 <h3 align="left">Connect with me:</h3>
 
