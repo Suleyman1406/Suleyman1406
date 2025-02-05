@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suleyman1406&label=Profile%20views&color=0e75b6&style=flat" alt="suleyman1406" /> </p>
 
-- 🌱 I’m currently learning **full stack web development (React, GraphQL).**
-
 - 💬 Ask me about **Java, Javascript, CSS, React, GraphQL.**
 
 - 📫 How to reach me **dadasovsuleyman126@gmail.com**
